@@ -1,0 +1,20 @@
+C:\Users\Виктор Капкаев\source\repos\table\table\bin\Debug\table.exe.config
+C:\Users\Виктор Капкаев\source\repos\table\table\bin\Debug\table.exe
+C:\Users\Виктор Капкаев\source\repos\table\table\bin\Debug\table.pdb
+C:\Users\Виктор Капкаев\source\repos\table\table\obj\Debug\table.csprojAssemblyReference.cache
+C:\Users\Виктор Капкаев\source\repos\table\table\obj\Debug\table.Form1.resources
+C:\Users\Виктор Капкаев\source\repos\table\table\obj\Debug\table.Properties.Resources.resources
+C:\Users\Виктор Капкаев\source\repos\table\table\obj\Debug\table.csproj.GenerateResource.cache
+C:\Users\Виктор Капкаев\source\repos\table\table\obj\Debug\table.csproj.CoreCompileInputs.cache
+C:\Users\Виктор Капкаев\source\repos\table\table\obj\Debug\table.exe
+C:\Users\Виктор Капкаев\source\repos\table\table\obj\Debug\table.pdb
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\bin\Debug\table.exe.config
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\bin\Debug\table.exe
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\bin\Debug\table.pdb
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\obj\Debug\table.csprojAssemblyReference.cache
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\obj\Debug\table.Form1.resources
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\obj\Debug\table.Properties.Resources.resources
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\obj\Debug\table.csproj.GenerateResource.cache
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\obj\Debug\table.csproj.CoreCompileInputs.cache
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\obj\Debug\table.exe
+C:\Users\Виктор Капкаев\Desktop\проекты\Таблица умножения\table\table\obj\Debug\table.pdb
